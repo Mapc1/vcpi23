@@ -1,3 +1,7 @@
+# Maybe we replace the .ppm for the png so we don't have to convert when cloning
+# the repo?
+**/*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
